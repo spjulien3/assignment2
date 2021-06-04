@@ -1,0 +1,4 @@
+The total of the salaries for Full Professors is: 35678051.41 The average salary for Full Professors is: 102229.37
+The total of the salaries for Assistant Professors is: 20246511.91 The average salary for Assistant Professors is: 65949.55
+The total of the salaries for Associate Professors is: 28844146.58 The average salary for Associate Professors is: 83849.26
+The total of the salaries for the faculty is: 84768709.90 The average salary for faculty is: 84009.40
